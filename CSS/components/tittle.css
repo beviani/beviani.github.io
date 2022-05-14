@@ -1,37 +1,8 @@
-h1 {
-    display: inline-block   ;
-    color: #F25A70;
-    position: absolute;
-    width: 604px;
-    height: 105px;
-    left: 73px;
-    top: 254px;
-    
-    
-    font-family: 'Press Start 2P';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 35.4803px;
-    line-height: 35px;
-
-    text-shadow: 3.54803px 3.54803px 0px #000000;
-    
-}
-
-h2 {
+header {
     display: flex;
-    position:absolute;
-    width: 581px;
-    height: 32px;
-    left: 105px;
-    top: 313px;
-    padding-right: 46px;
-    
-    font-family: 'Press Start 2P';
-    font-style: normal;
-    font-size: 30px;
-    line-height: 30px;
-    color: #FFFFFF;
-
-    text-shadow: 4px 4px 0px #000000;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #263039;
+    border-bottom: 10px solid #ef3d4d;
+    padding: 10px 20px;      
 }
