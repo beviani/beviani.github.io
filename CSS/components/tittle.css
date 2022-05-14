@@ -1,8 +1,7 @@
-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: #263039;
-    border-bottom: 10px solid #ef3d4d;
-    padding: 10px 20px;      
+h1 {
+    color: #F25A70;
+    font-family: 'Press Start 2P';
+    font-size: 40px;
+    text-shadow: 4px 4px 0px #000000;
+    
 }
