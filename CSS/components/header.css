@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #263039;
+    border-bottom: 10px solid #ef3d4d;
+    padding: 10px 20px;      
+}
+
+.name {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Fira Code';
+    font-size: 35px;
+    color: #ef3d4d;
+    text-shadow: 1px 1px 0.5px rgb(176, 176, 176);
+    
+}
