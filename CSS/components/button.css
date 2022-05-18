@@ -10,6 +10,6 @@
     text-decoration: none;
 }
 
-.button :hover {
+.button:hover {
     transform: scale(1.08);
 }
