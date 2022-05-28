@@ -1,12 +1,13 @@
 .main-header {
     display: flex;
+    align-items: center;
     justify-content: space-between;
     background-color: #263039;
     border-bottom: 10px solid #ef3d4d;
     padding: 10px 20px;      
 }
 
-.name {
+.main-header .name {
     display: flex;
     justify-content: space-between;
     font-family: 'Fira Code';
